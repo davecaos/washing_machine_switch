@@ -2,7 +2,7 @@
 
 :alarm_clock: :cyclone: The implementation of a washing machine switch in a Motorola Freescale MC68908JL3 Microcontroller
 
-This was my project for the Microcontoller's workshop in 2005 at [La Matanza University](http://www.unlam.edu.ar/)
+This was my project for the Microcontroller's workshop in 2005 at [La Matanza University](http://www.unlam.edu.ar/)
 
 ![wash](https://cloud.githubusercontent.com/assets/6124495/21746995/e3d4b32c-d536-11e6-8d73-22c5df211ce2.gif)
 
